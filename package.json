@@ -1,0 +1,24 @@
+{
+  "name": "kistodo",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uslparser": "^0.0.2",
+    "webpokedex": "^0.0.1",
+    "galspa": "^0.0.2",
+    "galback-xoxo": "^0.0.1", 
+    "blkjk": "^1.0.1",
+    "galaxypwd": "^0.0.1"
+  }
+}
